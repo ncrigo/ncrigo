@@ -1,12 +1,8 @@
 ## Olá, bem-vindo(a)! 😊
 
-Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp da [Laboratoria](https://www.laboratoria.la/br) e tenho como objetivo, em breve, ingressar na tecnologia como Desenvolvedora Jr 👩‍💻
+Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp da [Laboratoria](https://www.laboratoria.la/br) e tenho como objetivo ingressar na área de tecnologia como Desenvolvedora 👩‍💻
 
-<div>
-  <a href="https://github.com/ncrigo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncrigo&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p> Aqui você encontra os projetos que tenho desenvolvido, as tecnologias que tenho utilizado e contatos para maiores informações! 
 
 ## • Tecnologias que estou utilizando no momento:<br>
 
@@ -17,9 +13,17 @@ Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## • Mais informações e contatos:
+## • Contatos:
 
 <a href="https://www.linkedin.com/in/nathaliarigo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:ncrigobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+
+<a href="https://github.com/ncrigo"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=ncrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+ 
+<a href="https://github.com/ncrigo"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncrigo&layout=compact&langs_count=7&theme=dracula"/></a>
+
 ![Snake animation](https://github.com/ncrigo/ncrigo/blob/output/github-contribution-grid-snake.svg)
+  
+
+  ## Obrigada pela visita, até! 👋
