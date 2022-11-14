@@ -2,8 +2,6 @@
 
 Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp da [Laboratoria](https://www.laboratoria.la/br) e tenho como objetivo ingressar na área de tecnologia como Desenvolvedora 👩‍💻
 
-<p> Aqui você encontra os projetos que tenho desenvolvido, as tecnologias que tenho utilizado e contatos para maiores informações! 
-
 ## • Tecnologias que estou utilizando no momento:<br>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
