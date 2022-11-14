@@ -4,7 +4,8 @@ Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp 
 
 <div>
   <a href="https://github.com/ncrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncrigo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncrigo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ## • Tecnologias que estou utilizando no momento:<br>
@@ -20,4 +21,3 @@ Sou a Nathalia, tenho 26 anos, sou estudante de Desenvolvimento Web no Bootcamp 
 <a href = "mailto:ncrigobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  ![Snake animation](https://github.com/ncrigo/ncrigo/blob/output/github-contribution-grid-snake.svg)
- 
